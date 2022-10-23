@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://99Ninegg/Dafuzhijia.github.io</id>
+    <title>大富之家</title>
+    <updated>2022-10-23T01:24:20.830Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://99Ninegg/Dafuzhijia.github.io"/>
+    <link rel="self" href="https://99Ninegg/Dafuzhijia.github.io/atom.xml"/>
+    <subtitle>越剧长篇同人文</subtitle>
+    <logo>https://99Ninegg/Dafuzhijia.github.io/images/avatar.png</logo>
+    <icon>https://99Ninegg/Dafuzhijia.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 大富之家</rights>
+    <entry>
+        <title type="html"><![CDATA[Preface]]></title>
+        <id>https://99Ninegg/Dafuzhijia.github.io/post/preface/</id>
+        <link href="https://99Ninegg/Dafuzhijia.github.io/post/preface/">
+        </link>
+        <updated>2022-10-22T18:12:00.000Z</updated>
+        <content type="html"><![CDATA[<p>（陀思妥耶夫斯基 1985：458）上帝所创造的一切都是奥秘，而人应该做的就是“活下去，认识一切”。</p>
+]]></content>
+    </entry>
+</feed>
